@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ✨yinhaiying's Github Page
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yinhaiying)](https://github.com/anuraghazra/github-readme-stats)
 ## 💬 Ask me about
 name:Haiying Yin
+
 age:27
-University:Beijing University of Posts and Telecommunications
+
+University:Beijing University of Posts and 
+Telecommunications
 
 ## 🌱Skills
 - Vue
@@ -28,7 +31,9 @@ University:Beijing University of Posts and Telecommunications
 ## ⚡Latest Blog posts
 
 [掘金](https://juejin.cn/user/2225067267210440/posts)
+
 [知乎](https://www.zhihu.com/people/yinhaiying/posts)
+
 [blog](https://github.com/yinhaiying/Blog)
 
 ## 📫 How to reach me
