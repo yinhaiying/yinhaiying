@@ -24,17 +24,22 @@ Here are some ideas to get you started:
 - 工作年限：2 年
 - 毕业院校：
   本科：大连交通大学 电子科学与技术 (2012~2016)
+
   硕士：北京邮电大学 电子科学与技术 (2016~2019)
-- 技术博客
+
+- 技术博客：
   [掘金](https://juejin.cn/user/2225067267210440/posts)
   [知乎](https://www.zhihu.com/people/yinhaiying/posts)
 
-## 🌱Skills
+## 🌱 个人概况
 
-- Vue
-- React
-- Webpack
-- Ts
+- 对前后端分离模式，可视化开发深入理解，对 Vue 和 react 有丰富的开发经验，具备一定的框架设计能力。
+- 对 Javascript 中闭包、函数式语言等概念有清晰的认知，对常见库的源码实现有了解。
+- 熟悉模块化、前端编译和构建工具，熟练运用主流的模块打包工具 webpack 等，并简单了解过其设计原理。
+- 了解 ES6 新特性，对 Javascript 中闭包，函数式编程等概率有清晰的认知。
+- 熟练掌握 HTML5，CSS3 的基本使用以及常用的响应式布局的最佳实践。
+- 熟悉常见的前端框架，对 Vue 有着丰富的开发经验，并对 react 有一定程度的了解。
+- 熟悉 Node.js 开发，熟练使用 npm, webpack, gulp 等工具。熟悉前端性能的优化，熟悉使用 Chrome，Safari ，和 Fiddler 等前端调试工具。
 
 ## 📫 联系方式：
 
